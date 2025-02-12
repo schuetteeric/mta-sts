@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mxext1.mailbox.org
+mx: mxext2.mailbox.org
+max_age: 604800
